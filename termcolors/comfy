@@ -1,0 +1,20 @@
+! /----------------------------------\
+! | comfyterm                        |
+! | colorscheme by alec chan         |
+! | http://alecchan.io    2016       |
+! \----------------------------------/
+
+!Some colors need adjusting for better contrast with background
+
+#define bg    [98]#011A21
+#define blk   #5C6667
+#define fg    #EDD398
+#define bblk  #5C6667
+#define red   #A77938
+#define grn   #77827C
+#define ylw   #E4B566
+#define blu   #3E575C
+#define mag   #A8A58E
+#define cyn   #414D4E
+#define wht   #c0a79a
+
