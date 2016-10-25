@@ -1,0 +1,2 @@
+rofi -combi-modi window,drun -show combi -fullscreen -location 0 -lines 8 -bw 0 -font "GohuFont 19" -padding 400 -separator-style none -opacity 75
+
