@@ -137,14 +137,6 @@ bindsym $mod+Shift+8 move container to workspace number 8
 bindsym $mod+Shift+9 move container to workspace number 9
 bindsym $mod+Shift+0 move container to workspace number 10
 
-#workspace naming
-exec i3-msg 'rename workspace 1 to "cli"'
-exec i3-msg 'rename workspace 2 to "www"'
-exec i3-msg 'rename workspace 3 to "work"'
-exec i3-msg 'rename workspace 4 to "animu"'
-exec i3-msg 'rename workspace 5 to "music"'
-exec i3-msg 'rename workspace 6 to "irc"'
-
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
