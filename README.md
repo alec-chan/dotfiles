@@ -4,7 +4,7 @@
 
 ![prev2](http://i.imgur.com/Dvfebgc.jpg)
 
-##setup:
+## setup:
 **wm**: i3-gaps
 
 **bar**: lemonbar
